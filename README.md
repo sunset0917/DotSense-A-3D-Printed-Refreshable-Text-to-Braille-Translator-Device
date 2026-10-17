@@ -7,6 +7,7 @@ The device uses a 3D-printed enclosure and a cam-based mechanism to create **two
 ## Publication
 
 This project is published on IEEE Xplore: [Paper](https://ieeexplore.ieee.org/abstract/document/11253646/)
+
 Please refer to the publication for the project's research context and further technical details.
 
 ## Repository Structure
